@@ -1,0 +1,46 @@
+{
+    "id": 0,
+    "name": "Museu da Lourinhã",
+    "contents":[{
+        "id": 1,
+        "title": "Museu da Lourinhã - INFO",
+        "content": "museuDescription"
+    }],
+    "rooms":[{
+        "id": 2,
+        "name": "",
+        "title": "ponto1",
+        "order": null,
+        "points":[{
+            "id": 10,
+            "name": "",
+            "arImage": "",
+            "listImage": "",
+            "socialNetworkMedia": "",
+            "baseImage": "",
+            "title": "",
+            "languageDesc": "",
+            "media": "",
+            "languageDescAudio": "",
+            "descriptionAudio": "",
+            "mediaSignLanguage": "",
+            "questions": [{
+                "id":100,
+                "question": "",
+                "answer": [{
+                    "id":100,
+                    "answer": "",
+                    "isCorrect": true
+                }]
+            }],
+            "slideShow": [{
+                "id":100,
+                "name": "",
+                "url": "",
+                "time": null,
+                "caption": ""
+            }]
+        }]
+    }]
+
+}
