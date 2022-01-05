@@ -118,39 +118,50 @@
             "baseImage": "cromoPegadas.jpg",
             "title": "Ponto dedicado à Paleontologia",
             "languageDesc": "A região da Lourinhã é conhecida pelos abundantes vestígios de dinossauros do Jurássico Superior. Dinossauros carnívoros, herbívoros, gigantes ou mais pequenos aqui morreram e fossilizaram. Muitas das espécies de dinossauros existentes em Portugal são partilhadas com outra região do globo, os Estados Unidos da América, mas também existem espécies que até ao momento só foram encontradas em Portugal.",
-            "media": "",
+            "media": "P3DinoAudio.mp3",
             "languageDescAudio": "",
             "descriptionAudio": "",
             "mediaSignLanguage": "",
             "questions": [{
                 "id":120,
-                "question": "",
+                "question": "Classifica como verdadeira ou falsa a seguinte afirmação: \"A espécie Lourinhanosaurus antunesi, definida com base num espécime do Museu da Lourinhã, é uma espécie única no Mundo.\"",
                 "answers": [{
                     "id":1200,
-                    "answer": "folha de milho",
-                    "isCorrect": false
+                    "answer": "Verdadeira",
+                    "isCorrect": true
                 },
                 {
                     "id":1201,
-                    "answer": "carapela",
+                    "answer": "Falsa",
                     "isCorrect": false
-                },
-                {
-                    "id":1202,
-                    "answer": "folhelho",
-                    "isCorrect": false
-                },
-                {
-                    "id":1203,
-                    "answer": "pelas duas últimas",
-                    "isCorrect": true
                 }]
             }],
             "slideshow": [{
                 "id":12000,
-                "name": "",
-                "url": "",
-                "time": null,
+                "name": "P3JantarAllosaurusEuropaeus(1998)HugoDolores.jpg",
+                "url": "P3JantarAllosaurusEuropaeus(1998)HugoDolores.jpg",
+                "time": 0,
+                "caption": ""
+            },
+            {
+                "id":12001,
+                "name": "P3LourinhanosaurusAntunesiByJuanCalle.jpg",
+                "url": "P3LourinhanosaurusAntunesiByJuanCalle.jpg",
+                "time": 8,
+                "caption": ""
+            },
+            {
+                "id":12002,
+                "name": "P3SupersaurusLourinhanensisByFilipeAlvesElias_GEAL-CIID.jpg",
+                "url": "P3SupersaurusLourinhanensisByFilipeAlvesElias_GEAL-CIID.jpg",
+                "time": 16,
+                "caption": ""
+            },
+            {
+                "id":12003,
+                "name": "P3Torvosaurusgurneyialimentar-sedeumMiragaiaLongicollumDavideBonadonna_GEAL-CIID.jpg",
+                "url": "P3Torvosaurusgurneyialimentar-sedeumMiragaiaLongicollumDavideBonadonna_GEAL-CIID.jpg",
+                "time": 24,
                 "caption": ""
             }]
         }]
