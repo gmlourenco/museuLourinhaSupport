@@ -27,7 +27,7 @@
             "questions": [{
                 "id":100,
                 "question": "Que nome se dava à folha do milho que se introduzia no saco grande de pano para fazer de colchão?",
-                "answer": [{
+                "answers": [{
                     "id":1000,
                     "answer": "folha de milho",
                     "isCorrect": false
@@ -66,7 +66,7 @@
             "questions": [{
                 "id":110,
                 "question": "O som que o amolador emite para chamar os clientes é:",
-                "answer": [{
+                "answers": [{
                     "id":1100,
                     "answer": "Uma melodia",
                     "isCorrect": true
@@ -125,7 +125,7 @@
             "questions": [{
                 "id":120,
                 "question": "",
-                "answer": [{
+                "answers": [{
                     "id":1200,
                     "answer": "folha de milho",
                     "isCorrect": false
