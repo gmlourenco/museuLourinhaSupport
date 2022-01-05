@@ -13,6 +13,104 @@
         "order": null,
         "points":[{
             "id": 10,
+            "name": "Quarto na casinha saloia",
+            "arImage": "",
+            "listImage": "cromoCozinhaBlack.jpg",
+            "socialNetworkMedia": "https://www.youtube.com/watch?v=XDXuhITXLE8",
+            "baseImage": "cromoCozinha.jpg",
+            "title": "Quarto na casinha saloia",
+            "languageDesc": "Na casinha rural no Museu da Lourinhã, podemos apreciar ou relembrar como era a vida doméstica, na primeira metade do século XX. Através dos objectos podemos perceber a sua função utilitária. A casa rural tem um quarto e uma cozinha. Destacamos um pormenor no quarto, a cama. De ferros, como era comum, o colchão era preenchido anualmente com folhas de milho ou palha.",
+            "media": "P1video.mp4",
+            "languageDescAudio": "",
+            "descriptionAudio": "",
+            "mediaSignLanguage": "",
+            "questions": [{
+                "id":100,
+                "question": "Que nome se dava à folha do milho que se introduzia no saco grande de pano para fazer de colchão?",
+                "answer": [{
+                    "id":1000,
+                    "answer": "folha de milho",
+                    "isCorrect": false
+                },
+                {
+                    "id":1001,
+                    "answer": "carapela",
+                    "isCorrect": false
+                },
+                {
+                    "id":1002,
+                    "answer": "folhelho",
+                    "isCorrect": false
+                },
+                {
+                    "id":1003,
+                    "answer": "pelas duas últimas",
+                    "isCorrect": true
+                }]
+            }],
+            "slideShow": []
+        },
+        {
+            "id": 11,
+            "name": "Os Amoladores",
+            "arImage": "",
+            "listImage": "cromoAmoladorKnifeGrinderBlack.jpg",
+            "socialNetworkMedia": "",
+            "baseImage": "cromoAmoladorKnifeGrinder.jpg",
+            "title": "Os Amoladores",
+            "languageDesc": "Os amoladores, ou amola tesouras, são conhecidos como mestres, na arte de afiar facas, tesouras, arranjar guarda-chuvas e colocar “gatos” (espécie de agrafos) em loiça partida. Esta profissão era muito apreciada na primeira metade do século XX e ainda hoje, não com tanta frequência,  ouvimos os amoladores pelas ruas.\nO principal instrumento de trabalho era a roda de amolar, composta por uma estrutura em trapézio, onde está incorporada a roda e a pedra de amolar, tendo a particularidade de poder ser transportada como um carrinho de mão. No entanto, também se fazia acompanhar do apito ou gaita, que servia para atrair e chamar as pessoas para os vários trabalhos.  \nO mestre em exposição no Museu é o Sr. Garcia, natural da Galiza, Espanha, fixou-se na Lourinhã em 1955, executando a atividade de amolador. Mais tarde, abriu uma taberna na antiga praça, que era conhecida como a “Taberna do Espanhol”.",
+            "media": "P3amuladoresx2.mp3",
+            "languageDescAudio": "",
+            "descriptionAudio": "",
+            "mediaSignLanguage": "",
+            "questions": [{
+                "id":110,
+                "question": "O som que o amolador emite para chamar os clientes é:",
+                "answer": [{
+                    "id":1100,
+                    "answer": "Uma melodia",
+                    "isCorrect": true
+                },
+                {
+                    "id":1101,
+                    "answer": "Um apito",
+                    "isCorrect": false
+                },
+                {
+                    "id":1102,
+                    "answer": "Assobio",
+                    "isCorrect": false
+                },
+                {
+                    "id":1103,
+                    "answer": "Um grito",
+                    "isCorrect": false
+                }]
+            }],
+            "slideShow": [{
+                "id":11000,
+                "name": "P2AmoladorKnifeGrinder.jpg",
+                "url": "P2AmoladorKnifeGrinder.jpg",
+                "time": 0,
+                "caption": ""
+            },
+            {
+                "id":11001,
+                "name": "P2AmoladorKnifeGrinder2.jpg",
+                "url": "P2AmoladorKnifeGrinder2.jpg",
+                "time": 7,
+                "caption": ""
+            },
+            {
+                "id":11002,
+                "name": "P2AmoladorKnifeGrinder3.jpg",
+                "url": "P2AmoladorKnifeGrinder3.jpg",
+                "time": 14,
+                "caption": ""
+            }]
+        },
+        {
+            "id": 12,
             "name": "",
             "arImage": "",
             "listImage": "",
@@ -25,16 +123,31 @@
             "descriptionAudio": "",
             "mediaSignLanguage": "",
             "questions": [{
-                "id":100,
+                "id":120,
                 "question": "",
                 "answer": [{
-                    "id":100,
-                    "answer": "",
+                    "id":1200,
+                    "answer": "folha de milho",
+                    "isCorrect": false
+                },
+                {
+                    "id":1201,
+                    "answer": "carapela",
+                    "isCorrect": false
+                },
+                {
+                    "id":1202,
+                    "answer": "folhelho",
+                    "isCorrect": false
+                },
+                {
+                    "id":1203,
+                    "answer": "pelas duas últimas",
                     "isCorrect": true
                 }]
             }],
             "slideShow": [{
-                "id":100,
+                "id":12000,
                 "name": "",
                 "url": "",
                 "time": null,
