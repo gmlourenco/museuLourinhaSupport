@@ -48,7 +48,7 @@
                     "isCorrect": true
                 }]
             }],
-            "slideShow": []
+            "slideshow": []
         },
         {
             "id": 11,
@@ -87,7 +87,7 @@
                     "isCorrect": false
                 }]
             }],
-            "slideShow": [{
+            "slideshow": [{
                 "id":11000,
                 "name": "P2AmoladorKnifeGrinder.jpg",
                 "url": "P2AmoladorKnifeGrinder.jpg",
@@ -146,7 +146,7 @@
                     "isCorrect": true
                 }]
             }],
-            "slideShow": [{
+            "slideshow": [{
                 "id":12000,
                 "name": "",
                 "url": "",
