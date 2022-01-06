@@ -164,6 +164,64 @@
                 "time": 24,
                 "caption": ""
             }]
+        },
+        {
+            "id": 13,
+            "name": "Ponto dedicado à PaleoGeografia",
+            "arImage": "",
+            "listImage": "cromoPaleogeografiaBlack.jpg",
+            "socialNetworkMedia": "",
+            "baseImage": "cromoPaleogeografia.jpg",
+            "title": "Ponto dedicado à PaleoGeografia",
+            "languageDesc": "No Jurássico, os continentes não tinham a mesma configuração de hoje. A abertura do Oceano Atlântico é responsável pela separação e afastamento cada vez maior das massas continentais que correspondem ao que hoje identificamos como a Península Ibérica e os Estados Unidos da América. O registo paleontológico dos dois países mostra que durante o Jurássico Superior, apesar de já existir água a separar estes dois territórios, ainda havia pontes de terra que permitiam que alguns dinossauros pudessem movimentar-se de uma região para a outra. Por isso, há algumas espécies de dinossauros do Jurássico Superior que existem tanto nos Estados Unidos como em Portugal.\n O maior dinossauro carnívoro de Portugal é o Torvosaurus gurneyi, espécie única portuguesa do final do Jurássico. Em Portugal não foram encontrados fósseis de T-Rex pois, apesar de este dinossauro ser americano, é do Cretácico. Neste período, a Península Ibérica e a América do Norte estavam já muito afastadas e sem pontes de terra a ligar as duas massas continentais. Assim, os dinossauros do Cretácico americano e os dinossauros de Portugal são completamente diferentes.",
+            "media": "",
+            "languageDescAudio": "Dirige-te ao Pavilhão de História Natural, ao setor dedicado ao Jurássico Superior e aos dinossauros da Lourinhã.",
+            "descriptionAudio": "",
+            "mediaSignLanguage": "P4PaleogeografiaVideo.mp4",
+            "questions": [{
+                "id":130,
+                "question": "Classifica como verdadeira ou falsa a seguinte afirmação: \"O T-Rex é o maior dinossauro carnívoro de Portugal.\"",
+                "answers": [{
+                    "id":1300,
+                    "answer": "Verdadeira",
+                    "isCorrect": false
+                },
+                {
+                    "id":1301,
+                    "answer": "Falsa",
+                    "isCorrect": true
+                }]
+            }],
+            "slideshow": []
+        },
+        {
+            "id": 14,
+            "name": "Ponto dedicado à Paleontologia",
+            "arImage": "",
+            "listImage": "cromoPaleoAngolaBlack.png",
+            "socialNetworkMedia": "",
+            "baseImage": "cromoPaleoAngola.png",
+            "title": "Ponto dedicado à Paleontologia",
+            "languageDesc": "A região da Lourinhã é conhecida pelos abundantes vestígios de dinossauros do Jurássico Superior. Dinossauros carnívoros, herbívoros, gigantes ou mais pequenos aqui morreram e fossilizaram. Muitas das espécies de dinossauros existentes em Portugal são partilhadas com outra região do globo, os Estados Unidos da América, mas também existem espécies que até ao momento só foram encontradas em Portugal.",
+            "media": "",
+            "languageDescAudio": "",
+            "descriptionAudio": "",
+            "mediaSignLanguage": "P5PaleoAngolaVideo.mp4",
+            "questions": [{
+                "id":140,
+                "question": "Classifica como verdadeira ou falsa a seguinte afirmação: \"A espécie Lourinhanosaurus antunesi, definida com base num espécime do Museu da Lourinhã, é uma espécie única no Mundo.\"",
+                "answers": [{
+                    "id":1400,
+                    "answer": "Verdadeira",
+                    "isCorrect": true
+                },
+                {
+                    "id":1401,
+                    "answer": "Falsa",
+                    "isCorrect": false
+                }]
+            }],
+            "slideshow": []
         }]
     }]
 
