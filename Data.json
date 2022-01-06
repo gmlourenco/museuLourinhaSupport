@@ -21,7 +21,7 @@
             "title": "Quarto na casinha saloia",
             "languageDesc": "Na casinha rural no Museu da Lourinhã, podemos apreciar ou relembrar como era a vida doméstica, na primeira metade do século XX. Através dos objectos podemos perceber a sua função utilitária. A casa rural tem um quarto e uma cozinha. Destacamos um pormenor no quarto, a cama. De ferros, como era comum, o colchão era preenchido anualmente com folhas de milho ou palha.",
             "media": "",
-            "languageDescAudio": "",
+            "languageDescAudio": "Procure a nossa casinha antinha, a nossa \"Casinha Saloia\"",
             "descriptionAudio": "",
             "mediaSignLanguage": "P1video.mp4",
             "questions": [{
@@ -58,9 +58,9 @@
             "socialNetworkMedia": "",
             "baseImage": "cromoAmoladorKnifeGrinder.jpg",
             "title": "Os Amoladores",
-            "languageDesc": "Os amoladores, ou amola tesouras, são conhecidos como mestres, na arte de afiar facas, tesouras, arranjar guarda-chuvas e colocar “gatos” (espécie de agrafos) em loiça partida. Esta profissão era muito apreciada na primeira metade do século XX e ainda hoje, não com tanta frequência,  ouvimos os amoladores pelas ruas.\nO principal instrumento de trabalho era a roda de amolar, composta por uma estrutura em trapézio, onde está incorporada a roda e a pedra de amolar, tendo a particularidade de poder ser transportada como um carrinho de mão. No entanto, também se fazia acompanhar do apito ou gaita, que servia para atrair e chamar as pessoas para os vários trabalhos.  \nO mestre em exposição no Museu é o Sr. Garcia, natural da Galiza, Espanha, fixou-se na Lourinhã em 1955, executando a atividade de amolador. Mais tarde, abriu uma taberna na antiga praça, que era conhecida como a “Taberna do Espanhol”.",
+            "languageDesc": "Os amoladores, ou amola tesouras, são conhecidos como mestres, na arte de afiar facas, tesouras, arranjar guarda-chuvas e colocar “gatos” (espécie de agrafos) em loiça partida. Esta profissão era muito apreciada na primeira metade do século XX e ainda hoje, não com tanta frequência,  ouvimos os amoladores pelas ruas.\n O principal instrumento de trabalho era a roda de amolar, composta por uma estrutura em trapézio, onde está incorporada a roda e a pedra de amolar, tendo a particularidade de poder ser transportada como um carrinho de mão. No entanto, também se fazia acompanhar do apito ou gaita, que servia para atrair e chamar as pessoas para os vários trabalhos.  \n O mestre em exposição no Museu é o Sr. Garcia, natural da Galiza, Espanha, fixou-se na Lourinhã em 1955, executando a atividade de amolador. Mais tarde, abriu uma taberna na antiga praça, que era conhecida como a “Taberna do Espanhol”.",
             "media": "P3amuladoresx2.mp3",
-            "languageDescAudio": "",
+            "languageDescAudio": "Tente encontrar esta PROFISSÃO (Temos uma sala dedicada a elas! :))",
             "descriptionAudio": "",
             "mediaSignLanguage": "",
             "questions": [{
@@ -119,7 +119,7 @@
             "title": "Ponto dedicado à Paleontologia",
             "languageDesc": "A região da Lourinhã é conhecida pelos abundantes vestígios de dinossauros do Jurássico Superior. Dinossauros carnívoros, herbívoros, gigantes ou mais pequenos aqui morreram e fossilizaram. Muitas das espécies de dinossauros existentes em Portugal são partilhadas com outra região do globo, os Estados Unidos da América, mas também existem espécies que até ao momento só foram encontradas em Portugal.",
             "media": "P3DinoAudio.mp3",
-            "languageDescAudio": "",
+            "languageDescAudio": "Dirige-te ao Pavilhão de História Natural e procura o ponto junto ao esqueleto que se encontra no centro da sala",
             "descriptionAudio": "",
             "mediaSignLanguage": "",
             "questions": [{
@@ -196,29 +196,29 @@
         },
         {
             "id": 14,
-            "name": "Ponto dedicado à Paleontologia",
+            "name": "PaleoAngola",
             "arImage": "",
             "listImage": "cromoPaleoAngolaBlack.png",
             "socialNetworkMedia": "",
             "baseImage": "cromoPaleoAngola.png",
-            "title": "Ponto dedicado à Paleontologia",
-            "languageDesc": "A região da Lourinhã é conhecida pelos abundantes vestígios de dinossauros do Jurássico Superior. Dinossauros carnívoros, herbívoros, gigantes ou mais pequenos aqui morreram e fossilizaram. Muitas das espécies de dinossauros existentes em Portugal são partilhadas com outra região do globo, os Estados Unidos da América, mas também existem espécies que até ao momento só foram encontradas em Portugal.",
+            "title": "PaleoAngola",
+            "languageDesc": "A história da formação do setor Sul do  Oceano Atlântico é contada pelas rochas e pelos fósseis de países como Angola e Brasil. O Museu da Lourinhã expõe temporariamente fósseis angolanos, ao abrigo do projeto PaleoAngola. São sobretudo fósseis de vertebrados marinhos do Cretácico.",
             "media": "",
-            "languageDescAudio": "",
+            "languageDescAudio": "Dirige-te ao Pavilhão de História Natural, ao setor do Cretácico",
             "descriptionAudio": "",
             "mediaSignLanguage": "P5PaleoAngolaVideo.mp4",
             "questions": [{
                 "id":140,
-                "question": "Classifica como verdadeira ou falsa a seguinte afirmação: \"A espécie Lourinhanosaurus antunesi, definida com base num espécime do Museu da Lourinhã, é uma espécie única no Mundo.\"",
+                "question": "Classifica como verdadeira ou falsa a seguinte afirmação: \"Do plesiossauro Cardiocorax mukulu, exposto no Museu da Lourinhã, nunca foi descoberto o crânio.\"",
                 "answers": [{
                     "id":1400,
                     "answer": "Verdadeira",
-                    "isCorrect": true
+                    "isCorrect": false
                 },
                 {
                     "id":1401,
                     "answer": "Falsa",
-                    "isCorrect": false
+                    "isCorrect": true
                 }]
             }],
             "slideshow": []
