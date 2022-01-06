@@ -20,10 +20,10 @@
             "baseImage": "cromoCozinha.jpg",
             "title": "Quarto na casinha saloia",
             "languageDesc": "Na casinha rural no Museu da Lourinhã, podemos apreciar ou relembrar como era a vida doméstica, na primeira metade do século XX. Através dos objectos podemos perceber a sua função utilitária. A casa rural tem um quarto e uma cozinha. Destacamos um pormenor no quarto, a cama. De ferros, como era comum, o colchão era preenchido anualmente com folhas de milho ou palha.",
-            "media": "P1video.mp4",
+            "media": "",
             "languageDescAudio": "",
             "descriptionAudio": "",
-            "mediaSignLanguage": "",
+            "mediaSignLanguage": "P1video.mp4",
             "questions": [{
                 "id":100,
                 "question": "Que nome se dava à folha do milho que se introduzia no saco grande de pano para fazer de colchão?",
